@@ -5,5 +5,5 @@
 }
 
 body {
-  background-image: ("Backgroundthing.png");
+  background-image: url("Backgroundthing.png");
 }
