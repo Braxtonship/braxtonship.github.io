@@ -3,3 +3,7 @@
   font-family:Sans-Serif;
   text-align:center;
 }
+
+body {
+  background-image: ("Backgroundthing.png");
+}
